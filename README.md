@@ -28,7 +28,7 @@ To run this project, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/coffee-sales.git
+   git clone https://github.com/Mahesh00234h/coffee-sales.git
    cd coffee-sales
    ```
 
